@@ -26,8 +26,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/ethereum/go-ethereum/swarm/shed"
-	"github.com/ethereum/go-ethereum/swarm/storage"
+	"github.com/nebulaai/nbai-node/swarm/shed"
+	"github.com/nebulaai/nbai-node/swarm/storage"
 	"github.com/syndtr/goleveldb/leveldb"
 )
 
